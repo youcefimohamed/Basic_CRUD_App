@@ -1,0 +1,13 @@
+ul li {
+   color: black;
+   text-decoration: none;
+   padding: 20px;
+}
+ul li a{
+   text-decoration: none;
+}
+
+.sidebar{
+   height: 100vh;
+   background-color: #f6f6f6;
+}
